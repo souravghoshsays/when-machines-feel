@@ -1,0 +1,13 @@
+# Configuration for Gallery
+
+hero_image: "path/to/hero-image.jpg"
+caption: "A captivating hero image that sets the tone for the gallery."
+description: "This gallery showcases a collection of artwork that explores the feelings of AI through visual storytelling."
+
+gallery:
+  - image: "path/to/image1.jpg"
+    description: "A thought-provoking piece that delves into the concept of AI emotions."
+  - image: "path/to/image2.jpg"
+    description: "A vibrant representation of AI's creative potential."
+  - image: "path/to/image3.jpg"
+    description: "A minimalist take on the intersection of technology and emotion."
