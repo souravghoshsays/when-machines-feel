@@ -55,4 +55,6 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 
 ---
 
-Copyright &copy; 2026 | Sourav Ghosh and Neelam Saini. All rights reserved.
+<div style="text-align: center; font-size: x-small;">
+  Copyright &copy; 2026 | Sourav Ghosh and Neelam Saini. All rights reserved.
+</div>
