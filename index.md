@@ -2,6 +2,8 @@
 title: "When Machines Feel: Visualizing Artificial Emotion Perception"
 ---
 
+# When Machines Feel: Visualizing Artificial Emotion Perception
+
 ## <i>by</i> Sourav Ghosh and Neelam Saini
 
 ![When Machines Feel](images/mosaic/consolidated_mosaic.png)
