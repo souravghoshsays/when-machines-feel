@@ -27,6 +27,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 
 ![Baby Kaleidoscope](images/audio/afraid/baby_single_face_kaleidoscope.png)
 ![Hominid Kaleidoscope](images/audio/afraid/caveman_single_face_kaleidoscope.png)
+![Pet Kaleidoscope](images/audio/afraid/dog_single_face_kaleidoscope.png)
 ![Overlay](images/audio/afraid/overlay.png)
 
 
@@ -35,6 +36,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 
 ![Baby Kaleidoscope](images/audio/angry/baby_single_face_kaleidoscope.png)
 ![Hominid Kaleidoscope](images/audio/angry/caveman_single_face_kaleidoscope.png)
+![Pet Kaleidoscope](images/audio/angry/dog_single_face_kaleidoscope.png)
 ![Overlay](images/audio/angry/overlay.png)
 
 
@@ -43,6 +45,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 
 ![Baby Kaleidoscope](images/audio/happy/baby_single_face_kaleidoscope.png)
 ![Hominid Kaleidoscope](images/audio/happy/caveman_single_face_kaleidoscope.png)
+![Pet Kaleidoscope](images/audio/happy/dog_single_face_kaleidoscope.png)
 ![Overlay](images/audio/happy/overlay.png)
 
 
@@ -51,6 +54,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 
 ![Baby Kaleidoscope](images/audio/sad/baby_single_face_kaleidoscope.png)
 ![Hominid Kaleidoscope](images/audio/sad/caveman_single_face_kaleidoscope.png)
+![Pet Kaleidoscope](images/audio/sad/dog_single_face_kaleidoscope.png)
 ![Overlay](images/audio/sad/overlay.png)
 
 
