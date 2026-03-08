@@ -64,7 +64,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 
 
 ## Meh 😑
-### In the quiet middle of the afternoon, a baby stares blankly at a ceiling fan, the novelty of the world briefly paused. Long ago, a prehistoric woman rests against a stone wall after hours of labor, suspended between urgency and rest. Somewhere nearby in the present day, a cat lounges by a window, calmly watching the world pass without reaction. Much of life unfolds in this neutral space between emotion and action. When AI encounters such stillness, finding little signal to amplify, is it perceiving indifference, or simply observing the quiet baseline of human experience?
+> ### In the quiet middle of the afternoon, a baby stares blankly at a ceiling fan, the novelty of the world briefly paused. Long ago, a prehistoric woman rests against a stone wall after hours of labor, suspended between urgency and rest. Somewhere nearby in the present day, a cat lounges by a window, calmly watching the world pass without reaction. Much of life unfolds in this neutral space between emotion and action. When AI encounters such stillness, finding little signal to amplify, is it perceiving indifference, or simply observing the quiet baseline of human experience?
 
 ![Baby Kaleidoscope](images/audio/04_meh/baby_single_face_kaleidoscope.png)
 ![Hominid Kaleidoscope](images/audio/04_meh/caveman_single_face_kaleidoscope.png)
@@ -73,7 +73,7 @@ The final artwork is a collage of primal emotional states. Sharp shards, refract
 
 
 ## Angry 😡
-### A dog growls sharply when a stranger approaches its territory. Millennia earlier, a prehistoric woman grips a spear, anger rising as she defends her kin from threat. In a modern home, an infant cries out in pure frustration when a toy refuses to behave as expected. Across eras and species, anger emerges as a force of protection, protest, and boundary. When artificial intelligence identifies anger in our signals, is it sensing fury, or only amplifying the primal patterns we have encoded into its perception?
+> ### A dog growls sharply when a stranger approaches its territory. Millennia earlier, a prehistoric woman grips a spear, anger rising as she defends her kin from threat. In a modern home, an infant cries out in pure frustration when a toy refuses to behave as expected. Across eras and species, anger emerges as a force of protection, protest, and boundary. When artificial intelligence identifies anger in our signals, is it sensing fury, or only amplifying the primal patterns we have encoded into its perception?
 
 ![Baby Kaleidoscope](images/audio/05_angry/baby_single_face_kaleidoscope.png)
 ![Hominid Kaleidoscope](images/audio/05_angry/caveman_single_face_kaleidoscope.png)
